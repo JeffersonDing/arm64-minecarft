@@ -9,13 +9,13 @@
 ## Usage
 1. Clone this repository to a convenient location
 2. Type the following command and do not run it just yet
-```
-python3 setup.py
+```shell
+$ python3 setup.py
 ```
 3. Locate your Minecraft installation folder, it's usually under `/Users/<USERNAME>/Library/Application Support/minecraft`
 4. Drag and drop the directory into the terminal, the command should look like this
-```
-python3 setup.py /Users/<USERNAME>/Library/Application Support/minecraft/assets
+```shell
+$ python3 setup.py $HOME/Library/Application Support/minecraft
 ```
 5. Run the script
 
