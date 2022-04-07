@@ -15,7 +15,7 @@ python3 setup.py
 3. Locate your Minecraft installation folder, it's usually under `/Users/<USERNAME>/Library/Application Support/minecraft`
 4. Drag and drop the directory into the terminal, the command should look like this
 ```
-python3 setup.py /Users/<USERNAME>/Library/Application Support/minecraft/assets
+python3 setup.py /Users/<USERNAME>/Library/Application Support/minecraft
 ```
 5. Run the script
 
